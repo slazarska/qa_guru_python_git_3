@@ -1,2 +1,6 @@
 def test_example():
-    3 > 1
+    assert 3 > 1
+
+
+def test_olga():
+    assert 0 == 0
